@@ -1,2 +1,3 @@
 # hello-world
-the first tyr
+the first try
+Hi everyone~welcome!
